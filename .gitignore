@@ -1,0 +1,7 @@
+.aws/
+.docker/
+*.pem
+*.key
+.env
+__pycache__/
+*.pyc
